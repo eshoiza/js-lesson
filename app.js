@@ -48,7 +48,7 @@ console.log(clearNow);
 
             // IF STATEMENTS
 const age  = 28;
-if(age<18){
+if(age<20){
     document.write("You are too young to vote");
 }
 
@@ -61,12 +61,7 @@ if(n%2===0){
 
 
 
-var jane = new Object();
-jane.lastname = 'samuel'
-jane.job = 'Hair Dresser';
-jane['school'] = 'convenant';
-jane['surnname'] = 'gomina';
-console.log(jane);
+
 
 
 
